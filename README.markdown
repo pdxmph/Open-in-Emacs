@@ -16,6 +16,4 @@ Emacs app. If you'd rather they open in new buffers, add this to
 
 ## TODO
 
-- make cases where no file is selected open the current directory in
-  dired mode.
-
+- wait for things to break because this was done very quickly
